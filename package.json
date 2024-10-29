@@ -1,0 +1,15 @@
+{
+  "name": "icon-caral",
+  "version": "1.0.0",
+  "description": "Iconos de seidor parra uso interno o relacionado a la compañia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "repository": "https://github.com/JuanToSeidor/icon-caral.git",
+  "author": "Juan David Torres Garcia",
+  "license": "ISC"
+}
